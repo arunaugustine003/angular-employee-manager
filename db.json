@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "Niloo",
+      "lastName": "Maria",
+      "email": "niloopaapi@gmail.com",
+      "mobile": "97477",
+      "salary": "11,000"
+    },
+    {
+      "id": 5,
+      "firstName": "Hazel",
+      "lastName": "Dcouto",
+      "email": "h'dcouto@gmail.com",
+      "mobile": "97477",
+      "salary": "35,000"
+    },
+    {
+      "id": 6,
+      "firstName": "Christy",
+      "lastName": "Lopez",
+      "email": "clopex@yelp.com",
+      "mobile": "9656",
+      "salary": "70,000"
+    },
+    {
+      "id": 8,
+      "firstName": "Samba",
+      "lastName": "Sam",
+      "email": "sam@xx.com",
+      "mobile": "52006",
+      "salary": "56000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
